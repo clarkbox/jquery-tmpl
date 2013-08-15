@@ -1,5 +1,7 @@
 # jQuery Templates plugin v1.0.0pre. 
 
+FORKED AND MODIFIED TO ADD AN INDEX PROPERTY ON ITERATORS
+
 _Note: This plugin is currently in beta form and may change significantly before version 1.0 is released. See tagged versions for stable Beta releases. Requires jquery version 1.4.2._
 
 jQuery templates contain markup with binding expressions ('Template tags'). Templates are applied to data objects or arrays, and rendered into the HTML DOM
