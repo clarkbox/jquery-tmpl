@@ -1,6 +1,10 @@
 # jQuery Templates plugin v1.0.0pre. 
 
+DONT USE THIS. use a more modern template lib.
+
 FORKED AND MODIFIED TO ADD AN INDEX PROPERTY ON ITERATORS
+
+
 
 _Note: This plugin is currently in beta form and may change significantly before version 1.0 is released. See tagged versions for stable Beta releases. Requires jquery version 1.4.2._
 
