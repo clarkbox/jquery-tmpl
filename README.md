@@ -1,6 +1,6 @@
 # jQuery Templates plugin v1.0.0pre. 
 
-DONT USE THIS. use a more modern template lib.
+DONT USE THIS. use a more modern template lib like EJS.
 
 FORKED AND MODIFIED TO ADD AN INDEX PROPERTY ON ITERATORS
 
